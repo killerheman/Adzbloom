@@ -27,14 +27,17 @@
     <div class="bg-img color-white main-container">
         <div id="header" class="style-1">
             <div class="container">
-                <nav class="navbar navbar-expand-lg"> <a class="navbar-brand" href="#"><img src="img/logo.png"
-                            alt="" /></a> <button class="navbar-toggler" type="button" data-toggle="collapse"
-                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation"> <span
-                            class="icofont icofont-navigation-menu"></span> </button>
+                <nav class="navbar navbar-expand-lg">
+                    {{-- <a class="navbar-brand" href="{{ route('home') }}">
+                        <img src="{{ asset('home/img/logo.png')}}" alt="" />
+                    </a> --}}
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="icofont icofont-navigation-menu"></span>
+                    </button>
                     <div class="collapse navbar-collapse secondary-navbar" id="navbarSupportedContent">
                         <ul class="nav nav-pills mx-auto nav-style1">
-                            <li class="nav-item"><a class="nav-link nav-menu" href="#">Home</a></li>
+                            <li class="nav-item"><a class="nav-link nav-menu" href="{{ route('home') }}">Home</a></li>
                             <li class="nav-item" role="presentation"> <a class="nav-link nav-menu"
                                     id="pills-res-about-tab" data-toggle="pill" href="#pills-about" role="tab"
                                     aria-controls="pills-about" aria-selected="false">About</a> </li>
@@ -48,7 +51,7 @@
         </div>
         <div class="nav-style2-main">
             <ul class="style2-nav nav nav-pills">
-                <li class="nav-item"><a class="nav-link nav-menu" href="index.html">Home</a></li>
+                <li class="nav-item"><a class="nav-link nav-menu" href="{{ route('home') }}">Home</a></li>
                 <li class="nav-item" role="presentation"><a class="nav-link nav-menu" id="pills-about-tab"
                         data-toggle="pill" href="#pills-about" role="tab" aria-controls="pills-about"
                         aria-selected="false">About</a></li>
@@ -133,10 +136,10 @@
                                 <div class="row justify-content-center">
                                     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6 col-xl-6 text-center">
                                         <div class="subscribe-form text-center">
-                                            <form action="#" class="form-inline mx-auto"> <input type="email"
-                                                    name="email" class="form-control btn-rounded"
-                                                    placeholder="youremail@gmail.com" /> <button type="submit"
-                                                    class="btn btn-primary btn-round"> <span
+                                            <form action="#" class="form-inline mx-auto">
+                                                <input type="email" name="email" class="form-control btn-rounded"
+                                                    placeholder="youremail@gmail.com" autocomplete="off" />
+                                                    <button type="submit" class="btn btn-primary btn-round"> <span
                                                         class="btn-text">Subscribe</span> <span><i
                                                             class="btn-icon icofont icofont-paper-plane"></i></span>
                                                 </button> </form>
@@ -164,10 +167,10 @@
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                                <div class="about_img"> <img class="w-100" src="img/about-team.png"
+                                <div class="about_img"> <img class="w-100" src="{{ asset('home/img/about-team.png')}}"
                                         alt="" />
                                     <div class="border-shape"></div>
-                                    <div class="badge"><img class="w-100" src="img/badge.png" alt="" />
+                                    <div class="badge"><img class="w-100" src="{{ asset('home/img/badge.png')}}" alt="" />
                                     </div>
                                 </div>
                             </div>
@@ -186,9 +189,9 @@
                                         et dolore magna aliq minim veniam, quis nostrud exercitation ullamco laboris
                                         nisi ut aliquip ex ea com modo consequat. Duis aute irure dolor in reprehenderit
                                         in voluptate velit esse cillum dolore eu fugiat nulla pariatu. </p>
-                                    <div class="contact-btn"> <button type="button"
-                                            class="btn btn-primary btn-sm">Contact Us <i
-                                                class="icofont icofont-swoosh-right"></i></button> </div>
+                                    <div class="contact-btn">
+                                        <button type="button" class="btn btn-primary btn-sm" href="#pills-contact">Contact Us
+                                            <i class="icofont icofont-swoosh-right"></i></button> </div>
                                 </div>
                             </div>
                         </div>
