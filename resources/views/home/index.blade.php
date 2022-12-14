@@ -28,9 +28,9 @@
         <div id="header" class="style-1">
             <div class="container">
                 <nav class="navbar navbar-expand-lg">
-                    {{-- <a class="navbar-brand" href="{{ route('home') }}">
-                        <img src="{{ asset('home/img/logo.png')}}" alt="" />
-                    </a> --}}
+                    <a class="navbar-brand" href="{{ route('home') }}">
+                        <img src="{{ asset('home/img/logo2.png')}}" alt="" />
+                    </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="icofont icofont-navigation-menu"></span>
