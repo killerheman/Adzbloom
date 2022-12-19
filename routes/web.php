@@ -3,7 +3,7 @@
 use App\Http\Controllers\Admin\AdminController;
 use App\Http\Controllers\Admin\PermissionController;
 use App\Http\Controllers\Admin\RoleController;
-use App\Http\Controllers\Home\HomeController;
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Route;
 
@@ -17,7 +17,6 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
 Route::get('/', [HomeController::class, 'index'])->name('home');
 
 Route::get('/',[AdminController::class,'admin'])->name('admin');
@@ -46,3 +45,17 @@ Route::get('/optimize', function(){
 Route::get('/optimize-clear', function(){
     Artisan::call('optimize:clear');
 });
+Route::get('/about', [HomeController::class, 'about'])->name('about');
+Route::get('/contact', [HomeController::class, 'contact'])->name('contact');
+Route::get('/service', [HomeController::class, 'service'])->name('service');
+Route::get('/our-team', [HomeController::class, 'ourTeam'])->name('ourTeam');
+Route::get('/monotize', [HomeController::class, 'monotize'])->name('monotize');
+Route::get('/mobile', [HomeController::class, 'mobile'])->name('mobile');
+Route::get('/performance', [HomeController::class, 'performance'])->name('performance');
+Route::get('/faq', [HomeController::class, 'faq'])->name('faq');
+Route::get('/blog', [HomeController::class, 'blog'])->name('blog');
+Route::get('/project', [HomeController::class, 'project'])->name('project');
+
+
+
+
