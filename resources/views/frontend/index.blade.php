@@ -88,7 +88,7 @@
                 <div class="service-block-one wow fadeInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="inner-box">
                         <div class="icon-box">
-                            <i class="flaticon-artificial-intelligence"></i>
+                            <!-- <i class="flaticon-artificial-intelligence"></i> -->
                             <img src="{{asset('assets/images/seo.png')}}" alt="">
                             <div class="hover-shape"></div>
                         </div>
