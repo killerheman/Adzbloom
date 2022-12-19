@@ -56,7 +56,7 @@
                         </div>
                         <div class="right-column pull-right">
                             <div class="phone-box">
-                                <p><i class="fas fa-phone"></i>Start your project <a href="tel:0088827240">+00-888-27-240</a></p>
+                                <p><i class="fas fa-phone"></i>Start your project <a href="tel:8454937395">8454937395</a></p>
                             </div>
                             <ul class="social-links clearfix">
                                 <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
@@ -90,9 +90,9 @@
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation clearfix">
-                                        <li class="current dropdown"><a href="index-2.html">Home</a>
-                                            <ul>
-                                                <li><a href="index-2.html">Data Science</a></li>
+                                        <li class=""><a href="{{route('home')}}">Home</a>
+                                            <!-- <ul> -->
+                                                <!-- <li><a href="index-2.html">Data Science</a></li>
                                                 <li><a href="index-3.html">Artificial intelligence</a></li>
                                                 <li><a href="index-4.html">Artificial intelligence 02</a></li>
                                                 <li><a href="index-5.html">User Analysis</a></li>
@@ -101,42 +101,42 @@
                                                 <li><a href="index-8.html">Face Affirmation</a></li>
                                                 <li><a href="index-9.html">BI Execution</a></li>
                                                 <li><a href="index-onepage.html">OnePage Home</a></li>
-                                                <li><a href="index-rtl.html">RTL Home</a></li>
-                                            </ul>
+                                                <li><a href="index-rtl.html">RTL Home</a></li> -->
+                                            <!-- </ul> -->
                                         </li>
                                         <li class="dropdown"><a href="index-2.html">Company</a>
                                             <ul>
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="contact.html">Contact Us</a></li>
-                                                <li><a href="error.html">404</a></li>
+                                                <li><a href="{{route('about')}}">About Us</a></li>
+                                                <li><a href="{{route('contact')}}">Contact Us</a></li>
+                                                <!-- <li><a href="error.html">404</a></li> -->
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="index-2.html">Services</a>
                                             <ul>
-                                                <li><a href="service.html">Our Services</a></li>
-                                                <li><a href="advertising-marketing.html">Advertising & Marketing</a></li>
-                                                <li><a href="healthcare-medicine.html">Healthcare & Medicine</a></li>
-                                                <li><a href="financials-banking.html">Financials & Banking</a></li>
-                                                <li><a href="travel-hospitality.html">Travel & Hospitality</a></li>
-                                                <li><a href="media-entertainment.html">Media & Entertainment</a></li>
-                                                <li><a href="trasportation-logistics.html">Trasportation & Logistics</a></li>
+                                                <li><a href="{{route('service')}}">Our Services</a></li>
+                                                <!-- <li><a href="advertising-marketing.html">Advertising & Marketing</a></li> -->
+                                                <li><a href="{{ route('performance') }}">Performance Makrting </a></li>
+                                                <li><a href="{{route('mobile')}}">Mobile Advertising</a></li>
+                                                <!-- <li><a href="travel-hospitality.html">Genrate Traffic</a></li> -->
+                                                <li><a href="{{ route('monotize') }}">Boosting & Monetizing</a></li>
+                                                <!-- <li><a href="trasportation-logistics.html">Trasportation & Logistics</a></li> -->
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="index-2.html">Works</a>
                                             <ul>
-                                                <li><a href="project.html">Our Projects</a></li>
-                                                <li><a href="project-2.html">Project 3 Columns</a></li>
-                                                <li><a href="project-details.html">Project Details</a></li>
+                                                <li><a href="{{ route('project') }}">Our Projects</a></li>
+                                                <!-- <li><a href="project-2.html">Project 3 Columns</a></li>
+                                                <li><a href="project-details.html">Project Details</a></li> -->
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="index-2.html">Blog</a>
-                                            <ul>
-                                                <li><a href="blog.html">Blog Grid</a></li>
-                                                <li><a href="blog-2.html">Blog Classic</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul>
+                                        <li><a href="{{route('blog')}}">Blogs</a>
+                                            <!-- <ul>
+                                                <li><a href="{{route('blog')}}">Blog</a></li> -->
+                                                <!-- <li><a href="blog-2.html">Blog Classic</a></li> -->
+                                                <!-- <li><a href="blog-details.html">Blog Details</a></li> -->
+                                            <!-- </ul> -->
                                         </li>
-                                        <li class="dropdown"><a href="index-2.html">Elements</a>
+                                        <!-- <li class="dropdown"><a href="index-2.html">Elements</a>
                                             <div class="megamenu">
                                                 <div class="row clearfix">
                                                     <div class="col-xl-3 column">
@@ -193,12 +193,12 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </li>
+                                        </li> -->
                                         <li class="dropdown"><a href="index-2.html">Pages</a>
                                             <ul>
-                                                <li><a href="team.html">Our Team</a></li>
-                                                <li><a href="pricing.html">Pricing Plan</a></li>
-                                                <li><a href="faq.html">Faq's</a></li>
+                                                <li><a href="{{route('ourTeam')}}">Our Team</a></li>
+                                                <!-- <li><a href="pricing.html">Pricing Plan</a></li> -->
+                                                <li><a href="{{route('faq')}}">Faq's</a></li>
                                             </ul>
                                         </li>
                                     </ul>

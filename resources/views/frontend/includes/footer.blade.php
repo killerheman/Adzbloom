@@ -1,4 +1,29 @@
-        <!-- main-footer -->
+       <!-- clients-style-three -->
+ <section class="clients-style-three centred">
+    <div class="auto-container">
+        <div class="inner-container">
+            <ul class="clients-logo-list clearfix">
+                <li class="clients-logo-box">
+                    <a href="index-2.html"><img src="{{ asset('assets/images/clients/clients-logo-11.png') }}" alt=""></a>
+                </li>
+                <li class="clients-logo-box">
+                    <a href="index-2.html"><img src="{{ asset('assets/images/clients/clients-logo-12.png') }}" alt=""></a>
+                </li>
+                <li class="clients-logo-box">
+                    <a href="index-2.html"><img src="{{ asset('assets/images/clients/clients-logo-13.png') }}" alt=""></a>
+                </li>
+                <li class="clients-logo-box">
+                    <a href="index-2.html"><img src="{{ asset('assets/images/clients/clients-logo-14.png') }}" alt=""></a>
+                </li>
+                <li class="clients-logo-box">
+                    <a href="index-2.html"><img src="{{ asset('assets/images/clients/clients-logo-15.png') }}" alt=""></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- clients-style-three end -->
+       <!-- main-footer -->
         <footer class="main-footer">
             <div class="footer-top">
                 <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-11.png);"></div>
@@ -12,7 +37,7 @@
                                         <div class="divider" style="background-image: url(assets/images/icons/divider-3.png);"></div>
                                     </div>
                                     <div class="text">
-                                        <p>We will likely assistance our organizations keep up accomplish best class positions their separate enterprises & our group works happen that delights need to be disavowed.</p>
+<p>Adzbloom is a top and global end to end mobile advertising platform which helps  top brands  to reach their valuable users. We are specialized in CPI,CPR,CPS,CPL and CPA mobile campaigns.</p>
                                     </div>
                                     <div class="social-box">
                                         <h3>Follow Us:</h3>
@@ -34,7 +59,7 @@
                                     <div class="widget-content">
                                         <ul class="links-list clearfix">
                                             <li><a href="index-2.html">Advertising & Marketing</a></li>
-                                            <li><a href="index-2.html">Healthcare & Medicine</a></li>
+                                            <li><a href="index-2.html">performance market</a></li>
                                             <li><a href="index-2.html">Financials & Banking</a></li>
                                             <li><a href="index-2.html">Data Warehousing</a></li>
                                             <li><a href="index-2.html">Travel & Hospitality</a></li>
@@ -72,15 +97,15 @@
                                         <ul class="info-list clearfix">
                                             <li>
                                                 <h4><i class="fas fa-map-marker-alt"></i>Office Location</h4>
-                                                <p>124, Queens walk 2nd cross Denmark</p>
+                                                <p>Anil & Anant Estate 10, Village Road Bhandup,Mumbai,Maharastra,India-400078</p>
                                             </li>
                                             <li>
                                                 <h4><i class="fas fa-phone-volume"></i>Phone No.</h4>
-                                                <p><a href="tel:0088827240">+00-888-27-240</a></p>
+                                                <p><a href="tel:8454937395">+8454937395</a></p>
                                             </li>
                                             <li>
                                                 <h4><i class="fas fa-envelope"></i>Email Address</h4>
-                                                <p><a href="mailto:support@info.com">support@info.com</a></p>
+                                                <p><a href="mailto:info@adzbloom.com">info@adzbloom.com</a></p>
                                             </li>
                                         </ul>
                                     </div>
@@ -116,7 +141,7 @@
                 <div class="auto-container">
                     <div class="bottom-inner clearfix">
                         <div class="copyright pull-left">
-                            <p>Copyright &copy; <a href="index-2.html">Bithlo</a>, All Rights Reserved.</p>
+                            <p>Copyright &copy; <a href="index-2.html">Adzbloom</a>, All Rights Reserved.</p>
                         </div>
                         <ul class="footer-nav pull-right clearfix">
                             <li><a href="index-2.html">Privacy Policy</a></li>

@@ -17,9 +17,9 @@
         <div class="row align-items-center clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                 <div class="content-box">
-                    <h3>Transform Information into</h3>
-                    <h2>Understanding With Overview Reports</h2>
-                    <p>Bteach bring the power of data science and <br />artificial intelligence to every business.</p>
+                    <!-- <h3>Transform Information into</h3> -->
+                    <h2>MONITIZE YOUR APP WITH ADZBLOOM</h2>
+                    <p>Grow with premium demand from our top advertisers​​.<br>Performance marketing refers to a form of digital marketing in which brands only pay marketing service providers after their business objectives have been met or when specific actions have been taken, such as a click, sale, or lead.</p>
                     <div class="btn-box">
                         <a href="index-2.html" class="theme-btn btn-two">Get Started<i
                                 class="fas fa-arrow-right"></i></a>
@@ -29,15 +29,15 @@
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                 <div class="image-box">
-                    <figure class="image image-1"><img src="assets/images/banner/banner-1.png" alt=""></figure>
-                    <figure class="image image-2 float-bob-y"><img src="assets/images/banner/banner-2.png"
-                            alt=""></figure>
+                    <figure class="image image-1"><img src="assets/images/m2.webp" alt=""></figure>
+                    <!-- <figure class="image image-2 float-bob-y"><img src="assets/images/banner/banner-2.png"
+                            alt=""></figure> -->
                     <figure class="image image-3 wow zoomIn animated" data-wow-delay="500ms" data-wow-duration="1500ms">
-                        <img src="assets/images/banner/banner-3.png" alt=""></figure>
+                        <img src="assets/images/m3.webp" alt=""></figure>
                     <figure class="image image-4 wow bounceInDown" data-wow-delay="00ms" data-wow-duration="1500ms"><img
-                            src="assets/images/banner/banner-4.png" alt=""></figure>
+                            src="assets/images/m6.png" alt=""></figure>
                     <figure class="image image-5 wow bounceInDown" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <img src="assets/images/banner/banner-5.png" alt=""></figure>
+                        <img src="assets/images/m7.png" alt=""></figure>
                     <figure class="image image-6 wow bounceInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <img src="assets/images/banner/banner-6.png" alt=""></figure>
                     <figure class="image image-7 float-bob-y"><img src="assets/images/banner/banner-7.png"
@@ -49,14 +49,12 @@
     </div>
 </section>
 <!-- banner-section end -->
-
-
 <!-- service-section -->
 <section class="service-section">
     <div class="auto-container">
         <div class="sec-title">
             <h5>MORE THAN SOLUTIONS</h5>
-            <h2>Information science answers for <br />startup furthermore, ventures</h2>
+            <h2>Grow your Bussiness With Us.</h2>
             <div class="divider" style="background-image: url(assets/images/icons/divider-1.png);"></div>
         </div>
         <div class="row clearfix">
@@ -64,11 +62,11 @@
                 <div class="service-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                     <div class="inner-box">
                         <div class="icon-box">
-                            <i class="flaticon-science"></i>
+                        <img src="{{asset('assets/images/performance.png')}}" alt="">
                             <div class="hover-shape"></div>
                         </div>
-                        <h3><a href="advertising-marketing.html">BI Execution</a></h3>
-                        <p>Trouble that bound ensue equaly blame belongs to those through weakness.</p>
+                        <h3><a href="advertising-marketing.html">Performance Marketing</a></h3>
+                        <p>Performance-based advertising, also known as pay for performance advertising, is a form of advertising in which the purchaser pays only when there are measurable results</p>
                     </div>
                 </div>
             </div>
@@ -76,11 +74,13 @@
                 <div class="service-block-one wow fadeInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="inner-box">
                         <div class="icon-box">
-                            <i class="flaticon-virtual-reality"></i>
+                            <!-- <i class="flaticon-virtual-reality"></i> -->
+                            <img src="{{asset('assets/images/mobile.png')}}" alt="">
+
                             <div class="hover-shape"></div>
                         </div>
-                        <h3><a href="advertising-marketing.html">Client Assistance</a></h3>
-                        <p>Beguiled & demoralized by the charms pleasure of the blinded by desire.</p>
+                        <h3><a href="advertising-marketing.html">Mobile Advertising</a></h3>
+                        <p>Mobile advertising is a form of advertising via mobile phones or other mobile devices. It is a subset of mobile marketing, mobile advertising can take place as text ads via SMS, or banner advertisements that appear embedded in a mobile web site.</p>
                     </div>
                 </div>
             </div>
@@ -89,10 +89,11 @@
                     <div class="inner-box">
                         <div class="icon-box">
                             <i class="flaticon-artificial-intelligence"></i>
+                            <img src="{{asset('assets/images/seo.png')}}" alt="">
                             <div class="hover-shape"></div>
                         </div>
-                        <h3><a href="advertising-marketing.html">Machine learning</a></h3>
-                        <p>Any right to find fault with a man who chooses too enjoy a our tecno select</p>
+                        <h3><a href="advertising-marketing.html">Seo</a></h3>
+                        <p>Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic.</p>
                     </div>
                 </div>
             </div>
@@ -100,11 +101,12 @@
                 <div class="service-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="inner-box">
                         <div class="icon-box">
-                            <i class="flaticon-data-science"></i>
+                        <img src="{{asset('assets/images/monotize.png')}}" alt="">
+
                             <div class="hover-shape"></div>
                         </div>
-                        <h3><a href="advertising-marketing.html">Data Science</a></h3>
-                        <p>Simple & easy distinguish in a free hour, when our power choice prevents</p>
+                        <h3><a href="advertising-marketing.html">Monetizing</a></h3>
+                        <p>Monetization is, broadly speaking, the process of converting something into money. The term has a broad range of uses. In banking, the term refers to the process of converting or establishing something into legal tender.</p>
                     </div>
                 </div>
             </div>
@@ -154,10 +156,13 @@
                                         <p>As a solution providing company we offer a wide range of consulting,
                                             development & quality services with 100% satisfaction.</p>
                                         <ul class="list-style-one clearfix">
-                                            <li>Idea of denouncing pleasure & praising</li>
-                                            <li>Ever undertakes laborious physical</li>
-                                            <li>Avoids a pain that produces no resultant</li>
-                                            <li>Great explorer of the real truth</li>
+                                            <li> Acquire mobile users by creating effective mobile advertising campaigns, measure the success of your campaign.</li>
+                                            <li>Re-engage the acquired users and increase the ARPU.</li>
+                                            <li> Reach out to relevant audience with programmatic solutions.</li>
+                                            <li>Stand out among your competitors with our search & App store optimization solution.</li>
+                                            <li>Make your brand reach target users across devices.</li>
+                                            <li>Raise your brand awareness with our tailor made video soutions.</li>
+
                                         </ul>
                                     </div>
                                 </div>
@@ -166,10 +171,12 @@
                                         <p>As a solution providing company we offer a wide range of consulting,
                                             development & quality services with 100% satisfaction.</p>
                                         <ul class="list-style-one clearfix">
-                                            <li>Idea of denouncing pleasure & praising</li>
-                                            <li>Ever undertakes laborious physical</li>
-                                            <li>Avoids a pain that produces no resultant</li>
-                                            <li>Great explorer of the real truth</li>
+                                            <li> Acquire mobile users by creating effective mobile advertising campaigns, measure the success of your campaign.</li>
+                                            <li>Re-engage the acquired users and increase the ARPU.</li>
+                                            <li> Reach out to relevant audience with programmatic solutions.</li>
+                                            <li>Stand out among your competitors with our search & App store optimization solution.</li>
+                                            <li>Make your brand reach target users across devices.</li>
+                                            <li>Raise your brand awareness with our tailor made video soutions.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -193,7 +200,7 @@
     <div class="auto-container">
         <div class="sec-title">
             <h5>HOW IT WORKS</h5>
-            <h2>Information science <br />arrangements for startup</h2>
+            <h2>Boost Your App <br />& website with Adzbloom</h2>
             <div class="divider" style="background-image: url(assets/images/icons/divider-1.png);"></div>
         </div>
         <div class="row clearfix">
@@ -258,8 +265,8 @@
     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-1.jpg);"></div>
     <div class="auto-container">
         <div class="sec-title light">
-            <h5>Businesses</h5>
-            <h2>Businesses we are changing our <br />amazing solution</h2>
+            <h5>Advertising & Marketing</h5>
+            <h2>Success Your Business <br /> with amazing solution</h2>
             <div class="divider" style="background-image: url(assets/images/icons/divider-2.png);"></div>
         </div>
         <div class="four-item-carousel owl-carousel owl-theme owl-nav-none dots-style-one">
@@ -901,7 +908,7 @@
             <div class="row clearfix">
                 <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                     <div class="image-box">
-                        <figure class="image js-tilt"><img src="assets/images/resource/skills-1.png" alt="">
+                        <figure class="image js-tilt"><img src="assets/images/m8.png" alt="">
                         </figure>
                     </div>
                 </div>
@@ -915,7 +922,7 @@
                             <div class="progress-inner">
                                 <div class="progress-box">
                                     <div class="icon-box"><i class="fas fa-comments"></i></div>
-                                    <h4>Data Consulting</h4>
+                                    <h4>Performance Marketing</h4>
                                     <div class="bar-box">
                                         <div class="bar">
                                             <div class="bar-inner count-bar" data-percent="85%"></div>
@@ -925,7 +932,7 @@
                                 </div>
                                 <div class="progress-box">
                                     <div class="icon-box"><i class="fas fa-cloud-download-alt"></i></div>
-                                    <h4>Big Data & BI</h4>
+                                    <h4>Mobile Advertising </h4>
                                     <div class="bar-box">
                                         <div class="bar">
                                             <div class="bar-inner count-bar" data-percent="65%"></div>
@@ -935,7 +942,7 @@
                                 </div>
                                 <div class="progress-box">
                                     <div class="icon-box"><i class="fas fa-search"></i></div>
-                                    <h4>Predictive Analysis</h4>
+                                    <h4>Seo & Web Development</h4>
                                     <div class="bar-box">
                                         <div class="bar">
                                             <div class="bar-inner count-bar" data-percent="75%"></div>
@@ -958,7 +965,7 @@
                             <div class="count-outer count-box">
                                 <span class="count-text" data-speed="1500" data-stop="2500">0</span><span>+</span>
                             </div>
-                            <h4>Completed Work</h4>
+                            <h4>Completed Projects</h4>
                         </div>
                     </div>
                 </div>
@@ -980,7 +987,7 @@
                             <div class="count-outer count-box">
                                 <span class="count-text" data-speed="1500" data-stop="375">0</span>
                             </div>
-                            <h4>Expert Scientists</h4>
+                            <h4>Satisfied Customer</h4>
                         </div>
                     </div>
                 </div>

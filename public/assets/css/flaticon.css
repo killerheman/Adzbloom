@@ -21,10 +21,10 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .flaticon-age-group:before {
     content: "\f101";
 }
-.flaticon-artificial-intelligence-1:before {
+.flaticon-seo-1:before {
     content: "\f102";
 }
-.flaticon-artificial-intelligence:before {
+.flaticon-seo:before {
     content: "\f103";
 }
 .flaticon-cctv-camera:before {
