@@ -67,7 +67,7 @@
                                 <li class="accordion block">
                                      <div class="acc-btn">
                                         <div class="icon-outer"></div>
-                                        <h5>What are the payment options for the Bithlo?</h5>
+                                        <h5>What are the payment options for the Adzbloom?</h5>
                                     </div>
                                     <div class="acc-content">
                                         <div class="text">
@@ -120,7 +120,7 @@
                                 <li class="accordion block">
                                      <div class="acc-btn">
                                         <div class="icon-outer"></div>
-                                        <h5>What are the payment options for the Bithlo?</h5>
+                                        <h5>What are the payment options for the Adzbloom?</h5>
                                     </div>
                                     <div class="acc-content">
                                         <div class="text">
