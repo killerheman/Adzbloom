@@ -61,7 +61,7 @@
                                             <!-- <li><a href="index-2.html">Our Services</a></li> -->
                                             <li><a href="index-2.html">Advertising & Marketing</a></li>
                                             <li><a href="index-2.html">performance market</a></li>
-                                            <!-- <li><a href="index-2.html">Boosting & Monetizing</a></li> -->
+                                            <li><a href="index-2.html">Boosting & Monetizing</a></li>
                                           
                                         </ul>
                                     </div>
@@ -75,13 +75,10 @@
                                     </div>
                                     <div class="widget-content">
                                         <ul class="links-list clearfix">
-                                            <!-- <li><a href="index-2.html">Case Studies</a></li>-->
-                                            <!-- <li><a href="index-2.html">Chatbot</a></li> -->
-                                            <!-- <li><a href="index-2.html">Classic With S/B</a></li> -->
-                                            <!-- <li><a href="index-2.html">Data Science</a></li> -->
-                                            <li><a href="index-2.html">Get In Touch</a></li>
-                                            <li><a href="index-2.html">Meet Our Team</a></li>
-                                            <!-- <li><a href="index-2.html">Sentiment Analysis</a></li>  -->
+                                            <li><a href="#">Home</a></li>
+                                            <li><a href="#">About Us</a></li>
+                                            <li><a href="#">Meet Our Team</a></li>
+                                            <li><a href="#">Contact us</a></li>
                                         </ul>
                                     </div>
                                 </div>

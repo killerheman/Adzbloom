@@ -183,7 +183,7 @@ Mobile advertising is a form of advertising via mobile phones or other mobile de
 
 
         <!-- contact-style-four -->
-        <section class="contact-style-four">
+        <!-- <section class="contact-style-four">
             <div class="pattern-layer">
                 <div class="pattern-1" style="background-image: url(assets/images/shape/shape-91.png);"></div>
                 <div class="pattern-2" style="background-image: url(assets/images/shape/shape-92.png);"></div>
@@ -228,7 +228,7 @@ Mobile advertising is a form of advertising via mobile phones or other mobile de
                     </div>
                 </div>
             </div>
-</section>
+</section> -->
         <!-- contact-style-four end -->
 @endsection
 @section('script')

@@ -104,13 +104,10 @@
                                                 <li><a href="index-rtl.html">RTL Home</a></li> -->
                                             <!-- </ul> -->
                                         </li>
-                                        <li class="dropdown"><a href="#">Company</a>
-                                            <ul>
+                                        
                                                 <li><a href="{{route('about')}}">About Us</a></li>
-                                                <li><a href="{{route('contact')}}">Contact Us</a></li>
                                                 <!-- <li><a href="error.html">404</a></li> -->
-                                            </ul>
-                                        </li>
+                                           
                                         <li class="dropdown"><a href="#">Services</a>
                                             <ul>
                                                 <!-- <li><a href="{{route('service')}}">Our Services</a></li> -->
@@ -194,13 +191,12 @@
                                                 </div>
                                             </div>
                                         </li> -->
-                                        <li class="dropdown"><a href="#">Pages</a>
-                                            <ul>
-                                                <li><a href="{{route('ourTeam')}}">Our Team</a></li>
+                                        
+                                                <li><a href="{{route('ourTeam')}}">Team</a></li>
                                                 <!-- <li><a href="pricing.html">Pricing Plan</a></li> -->
                                                 <!-- <li><a href="#">Faq's</a></li> -->
-                                            </ul>
-                                        </li>
+                                                <li><a href="{{route('contact')}}">Contact Us</a></li>
+                                           
                                     </ul>
                                 </div>
                             </nav>

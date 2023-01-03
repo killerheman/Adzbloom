@@ -186,7 +186,7 @@ Performance-based advertising, also known as pay for performance advertising, is
 
 
         <!-- contact-style-four -->
-        <section class="contact-style-four">
+        <!-- <section class="contact-style-four">
             <div class="pattern-layer">
                 <div class="pattern-1" style="background-image: url(assets/images/shape/shape-91.png);"></div>
                 <div class="pattern-2" style="background-image: url(assets/images/shape/shape-92.png);"></div>
@@ -231,7 +231,7 @@ Performance-based advertising, also known as pay for performance advertising, is
                     </div>
                 </div>
             </div>
-</section>
+</section> -->
         <!-- contact-style-four end -->
 
 
