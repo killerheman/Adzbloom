@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- Mirrored from azim.commonsupport.com/Bithlo/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Dec 2022 07:22:27 GMT -->
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">

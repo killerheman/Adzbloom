@@ -28,14 +28,14 @@
                             <div class="category-widget">
                                 <ul class="category-list clearfix">
                                     <li><a href="advertising-marketing.html">Advertising & Marketing<i class="fas fa-long-arrow-alt-right"></i></a></li>
-                                    <li><a href="healthcare-medicine.html">Healthcare & Medicine<i class="fas fa-long-arrow-alt-right"></i></a></li>
+                                    <!-- <li><a href="healthcare-medicine.html">Healthcare & Medicine<i class="fas fa-long-arrow-alt-right"></i></a></li>
                                     <li><a href="financials-banking.html">Financials & Banking<i class="fas fa-long-arrow-alt-right"></i></a></li>
                                     <li><a href="travel-hospitality.html">Travel & Hospitality<i class="fas fa-long-arrow-alt-right"></i></a></li>
                                     <li><a href="media-entertainment.html" class="current">Media & Entertainment<i class="fas fa-long-arrow-alt-right"></i></a></li>
-                                    <li><a href="trasportation-logistics.html">Trasportation & Logistics<i class="fas fa-long-arrow-alt-right"></i></a></li>
+                                    <li><a href="trasportation-logistics.html">Trasportation & Logistics<i class="fas fa-long-arrow-alt-right"></i></a></li> -->
                                 </ul>
                             </div>
-                            <div class="download-widget">
+                            <!-- <div class="download-widget">
                                 <ul class="download-list clearfix">
                                     <li>
                                         <a href="advertising-marketing.html">
@@ -54,13 +54,13 @@
                                         </a>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> -->
                             <div class="award-widget centred">
                                 <div class="inner-box">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-90.png);"></div>
                                     <h2>Mobile Advertising</h2>
                                     <div class="trophy-box">
-                                        <span class="curved-circle">Adzbloom The Best Servic Provider 2020</span>
+                                        <span class="curved-circle">Adzbloom The Best Servic Provider 2022</span>
                                         <figure class="trophy"><img src="assets/images/Mobile-Marketing.png" alt=""></figure>
                                     </div>
                                     <p>To take a trivial example, which idea of ever undertakes.</p>
@@ -73,17 +73,22 @@
                             <div class="content-one">
                                 <figure class="image-box"><img src="{{ asset('assets/images/mms.jpg') }}" alt=""></figure>
                                 <div class="text">
-                                    <h2>Conveying the bits of knowledge you to help business development</h2>
-                                    <p>To take a trivial example, which of us ever under- takes laborious physical exercise, except to obtain some advantage from it but who has any right find fault with a man who chooses to enjoy a get pleasure that has annoying.</p>
-                                    <p>Undertakes laborious physical exercise, except to obtain some advantage from it but who has any find fault with a man who chooses.</p>
-                                </div>
+                                    <h2>Mobile advertising</h2>
+<p>
+Mobile advertising is a form of advertising via mobile phones or other mobile devices. It is a subset of mobile marketing, mobile advertising can take place as text ads via SMS, or banner advertisements that appear embedded in a mobile web site.
+<p>It is a form of business promotion on Internet-enabled mobile devices such as smartphones, e-books, and tablets to deliver marketing Advertises.</p>
+</div>
                             </div>
                             <div class="content-two">
                                 <div class="text">
-                                    <h3>We provide services</h3>
-                                    <p>Except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences.</p>
-                                </div>
-                                <div class="two-column">
+                                    <h3>Objectives of Mobile Advertising</h3>
+                                  
+<p><span>(1)</span> Increasing the brand awareness.</p>
+<p><span>(2)</span> Promoting business with good Ads across all mobile phone models, network technologies, and data bandwidths.</p>
+<p><span>(3)</span> Providing support for specific engagements.</p>
+<p><span>(4)</span> Driving sales of the product or service.</p>
+                               </div>
+                                <!-- <div class="two-column">
                                     <div class="row align-items-center clearfix">
                                         <div class="col-lg-6 col-md-6 col-sm-12 text-column">
                                             <div class="text">
@@ -96,9 +101,9 @@
                                             <figure class="image-box"><img src="assets/images/lucid_benefits_digital.webp" alt=""></figure>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
-                            <div class="content-three">
+                            <!-- <div class="content-three">
                                 <div class="text">
                                     <h3>Technologies that we use</h3>
                                     <p>We denounce with righteos indignation and dislikes men who are so beguiled demoralized cof pleasure of the moment.</p>
@@ -168,7 +173,7 @@
                                         <h5>Accommodation and Travel</h5>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -193,7 +198,7 @@
                                     <h2>We’d love hear from you anytime</h2>
                                     <div class="divider" style="background-image: url(assets/images/icons/divider-1.png);"></div>
                                 </div>
-                                <form action="https://azim.commonsupport.com/Bithlo/contact.html" method="post" class="default-form">
+                                <form action="#" method="post" class="default-form">
                                     <div class="form-group">
                                         <i class="far fa-user"></i>
                                         <input type="text" name="name" placeholder="Your Name" required="">

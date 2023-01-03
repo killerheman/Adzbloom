@@ -1,5 +1,5 @@
        <!-- clients-style-three -->
- <section class="clients-style-three centred">
+ <!-- <section class="clients-style-three centred">
     <div class="auto-container">
         <div class="inner-container">
             <ul class="clients-logo-list clearfix">
@@ -21,7 +21,7 @@
             </ul>
         </div>
     </div>
-</section>
+</section> -->
 <!-- clients-style-three end -->
        <!-- main-footer -->
         <footer class="main-footer">
@@ -58,12 +58,11 @@
                                     </div>
                                     <div class="widget-content">
                                         <ul class="links-list clearfix">
+                                            <!-- <li><a href="index-2.html">Our Services</a></li> -->
                                             <li><a href="index-2.html">Advertising & Marketing</a></li>
                                             <li><a href="index-2.html">performance market</a></li>
-                                            <li><a href="index-2.html">Financials & Banking</a></li>
-                                            <li><a href="index-2.html">Data Warehousing</a></li>
-                                            <li><a href="index-2.html">Travel & Hospitality</a></li>
-                                            <li><a href="index-2.html">Media & Entertainment</a></li>
+                                            <!-- <li><a href="index-2.html">Boosting & Monetizing</a></li> -->
+                                          
                                         </ul>
                                     </div>
                                 </div>
@@ -76,13 +75,13 @@
                                     </div>
                                     <div class="widget-content">
                                         <ul class="links-list clearfix">
-                                            <li><a href="index-2.html">Case Studies</a></li>
-                                            <li><a href="index-2.html">Chatbot</a></li>
-                                            <li><a href="index-2.html">Classic With S/B</a></li>
-                                            <li><a href="index-2.html">Data Science</a></li>
+                                            <!-- <li><a href="index-2.html">Case Studies</a></li>-->
+                                            <!-- <li><a href="index-2.html">Chatbot</a></li> -->
+                                            <!-- <li><a href="index-2.html">Classic With S/B</a></li> -->
+                                            <!-- <li><a href="index-2.html">Data Science</a></li> -->
                                             <li><a href="index-2.html">Get In Touch</a></li>
                                             <li><a href="index-2.html">Meet Our Team</a></li>
-                                            <li><a href="index-2.html">Sentiment Analysis</a></li>
+                                            <!-- <li><a href="index-2.html">Sentiment Analysis</a></li>  -->
                                         </ul>
                                     </div>
                                 </div>
@@ -122,7 +121,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-7 col-md-12 col-sm-12 form-column">
-                                <form action="https://azim.commonsupport.com/Bithlo/contact.html" method="post" class="subscribe-form">
+                                <form action="#" method="post" class="subscribe-form">
                                     <div class="form-group">
                                         <input type="email" name="email" placeholder="Your Email Address" required="">
                                         <button type="submit" class="theme-btn btn-two">Subscribe</button>

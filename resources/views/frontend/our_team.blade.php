@@ -91,7 +91,7 @@
                                 <div class="lower-content">
                                     <h3><a href="index-6.html">Hard Branots</a></h3>
                                     <div class="designation">
-                                        <p>Head of Data Science</p>
+                                        <p>Head of Advertising</p>
                                         <span class="bar"></span>
                                     </div>
                                 </div>
@@ -114,14 +114,14 @@
                                 <div class="lower-content">
                                     <h3><a href="index-6.html">Neil Roberto</a></h3>
                                     <div class="designation">
-                                        <p>Data Science</p>
+                                        <p>Manager</p>
                                         <span class="bar"></span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-6 col-sm-md team-block">
+                    <!-- <div class="col-xl-3 col-lg-6 col-sm-md team-block">
                         <div class="team-block-two wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
@@ -143,8 +143,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-sm-md team-block">
+                    </div> -->
+                    <!-- <div class="col-xl-3 col-lg-6 col-sm-md team-block">
                         <div class="team-block-two wow fadeInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
@@ -166,8 +166,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-sm-md team-block">
+                    </div> -->
+                    <!-- <div class="col-xl-3 col-lg-6 col-sm-md team-block">
                         <div class="team-block-two wow fadeInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
@@ -189,8 +189,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-sm-md team-block">
+                    </div> -->
+                    <!-- <div class="col-xl-3 col-lg-6 col-sm-md team-block">
                         <div class="team-block-two wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
@@ -212,7 +212,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
