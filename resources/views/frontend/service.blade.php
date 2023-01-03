@@ -172,7 +172,7 @@
                                         <div class="form-group">
                                             <div class="single-checkbox">
                                                 <input type="radio" name="check-box" id="check1">
-                                                <label for="check1"><span></span>accept Bithlo private policy</label>
+                                                <label for="check1"><span></span>accept Adzbloom private policy</label>
                                             </div>
                                         </div>
                                         <div class="form-group">

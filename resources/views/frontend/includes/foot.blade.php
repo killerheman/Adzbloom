@@ -15,7 +15,5 @@
     <!-- main-js -->
     <script src="assets/js/script.js"></script>
 
-</body><!-- End of .page_wrapper -->
-
-<!-- Mirrored from azim.commonsupport.com/Bithlo/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Dec 2022 07:23:05 GMT -->
+</body>
 </html>
