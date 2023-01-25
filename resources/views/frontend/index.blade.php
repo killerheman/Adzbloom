@@ -117,7 +117,7 @@
 
 
 <!-- about-section -->
-<section class="about-section">
+<!-- <section class="about-section">
     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-3.png);"></div>
     <div class="auto-container">
         <div class="sec-title centred">
@@ -187,7 +187,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- about-section end -->
 
 
@@ -261,7 +261,7 @@
 
 
 <!-- solutions-section -->
-<section class="solutions-section centred">
+<!-- <section class="solutions-section centred">
     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-1.jpg);"></div>
     <div class="auto-container">
         <div class="sec-title light">
@@ -492,12 +492,12 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- solutions-section end -->
 
 
 <!-- project-section -->
-<section class="project-section">
+<!-- <section class="project-section">
     <div class="pattern-layer">
         <div class="pattern-1" style="background-image: url(assets/images/shape/shape-8.png);"></div>
         <div class="pattern-2" style="background-image: url(assets/images/shape/shape-9.png);"></div>
@@ -506,7 +506,7 @@
         <div class="sec-title">
             <h5>CASE STUDIES</h5>
             <h2>Ventures we are changing <br />our magnificent arrangements</h2>
-            <div class="divider" style="background-image: url(assets/images/icons/divider-1.png);"></div>
+            <div class="divider" style="background-image: url(assets/images/mobile_ads.jpg);"></div>
             <a href="project.html" class="theme-btn btn-four">All Case Read Now</a>
         </div>
     </div>
@@ -889,7 +889,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- project-section end -->
 
 
@@ -908,7 +908,7 @@
             <div class="row clearfix">
                 <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                     <div class="image-box">
-                        <figure class="image js-tilt"><img src="assets/images/m8.png" alt="">
+                        <figure class="image js-tilt"><img src="{{ asset('assets/images/m8.png') }}" alt="">
                         </figure>
                     </div>
                 </div>
@@ -999,7 +999,7 @@
 
 
 <!-- clients-section -->
-<section class="clients-section centred">
+<!-- <section class="clients-section centred">
     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-2.jpg);"></div>
     <div class="anim-icon">
         <div class="icon icon-1 rotate-me" style="background-image: url(assets/images/shape/anim-icon-4.png);"></div>
@@ -1090,12 +1090,12 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- clients-section end -->
 
 
 <!-- testimonial-section -->
-<section class="testimonial-section">
+<!-- <section class="testimonial-section">
     <div class="anim-icon">
         <div class="icon icon-1 rotate-me" style="background-image: url(assets/images/shape/anim-icon-3.png);">
         </div>
@@ -1314,12 +1314,12 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- testimonial-section end -->
 
 
 <!-- news-section -->
-<section class="news-section bg-color-1">
+<!-- <section class="news-section bg-color-1">
     <div class="auto-container">
         <div class="sec-title centred">
             <h5>NEWS & UPDATES</h5>
@@ -1332,7 +1332,7 @@
                     data-wow-duration="1500ms">
                     <div class="inner-box">
                         <figure class="image-box">
-                            <img src="assets/images/news/news-1.jpg" alt="">
+                            <img src="{{ asset('assets/images/mobile-ad.jpg') }}" alt="">
                             <a href="blog-details.html"><i class="fas fa-link"></i></a>
                             <span class="post-date">Fab 28</span>
                         </figure>
@@ -1350,7 +1350,7 @@
                     data-wow-duration="1500ms">
                     <div class="inner-box">
                         <figure class="image-box">
-                            <img src="assets/images/news/news-2.jpg" alt="">
+                            <img src="{{ asset('assets/images/p1.jpg') }}" alt="">
                             <a href="blog-details.html"><i class="fas fa-link"></i></a>
                             <span class="post-date">Fab 27</span>
                         </figure>
@@ -1384,7 +1384,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- news-section end -->
 @endsection
 

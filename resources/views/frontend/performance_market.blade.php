@@ -26,15 +26,15 @@
                         <div class="service-sidebar">
                             <div class="category-widget">
                                 <ul class="category-list clearfix">
-                                    <li><a href="advertising-marketing.html">Advertising & Marketing<i class="fas fa-long-arrow-alt-right"></i></a></li>
-                                    <li><a href="healthcare-medicine.html">Healthcare & Medicine<i class="fas fa-long-arrow-alt-right"></i></a></li>
+                                    <li><a href="#">Advertising & Marketing<i class="fas fa-long-arrow-alt-right"></i></a></li>
+                                    <!-- <li><a href="healthcare-medicine.html">Healthcare & Medicine<i class="fas fa-long-arrow-alt-right"></i></a></li>
                                     <li><a href="financials-banking.html">Financials & Banking<i class="fas fa-long-arrow-alt-right"></i></a></li>
                                     <li><a href="travel-hospitality.html">Travel & Hospitality<i class="fas fa-long-arrow-alt-right"></i></a></li>
                                     <li><a href="media-entertainment.html" class="current">Media & Entertainment<i class="fas fa-long-arrow-alt-right"></i></a></li>
-                                    <li><a href="trasportation-logistics.html">Trasportation & Logistics<i class="fas fa-long-arrow-alt-right"></i></a></li>
+                                    <li><a href="trasportation-logistics.html">Trasportation & Logistics<i class="fas fa-long-arrow-alt-right"></i></a></li> -->
                                 </ul>
                             </div>
-                            <div class="download-widget">
+                            <!-- <div class="download-widget">
                                 <ul class="download-list clearfix">
                                     <li>
                                         <a href="advertising-marketing.html">
@@ -53,13 +53,13 @@
                                         </a>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> -->
                             <div class="award-widget centred">
                                 <div class="inner-box">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-90.png);"></div>
                                     <h2>Award Winning Service</h2>
                                     <div class="trophy-box">
-                                        <span class="curved-circle">Adzbloom The Best Servic Provider 2020</span>
+                                        <span class="curved-circle">Adzbloom The Best Servic Provider 2022</span>
                                         <figure class="trophy"><img src="assets/images/about3.png" alt=""></figure>
                                     </div>
                                     <p>To take a trivial example, which idea of ever undertakes.</p>
@@ -72,17 +72,26 @@
                             <div class="content-one">
                                 <figure class="image-box"><img src="{{ asset('assets/images/How-Does-Performance-Marketing-Work_-1-1024x618.jpg') }}" alt=""></figure>
                                 <div class="text">
-                                    <h2>Conveying the bits of knowledge you to help business development</h2>
-                                    <p>To take a trivial example, which of us ever under- takes laborious physical exercise, except to obtain some advantage from it but who has any right find fault with a man who chooses to enjoy a get pleasure that has annoying.</p>
-                                    <p>Undertakes laborious physical exercise, except to obtain some advantage from it but who has any find fault with a man who chooses.</p>
+                                    <h2>Performance-based advertising</h2>
+<p>
+Performance-based advertising, also known as pay for performance advertising, is a form of advertising in which the purchaser pays only when there are measurable results</p>
                                 </div>
                             </div>
                             <div class="content-two">
                                 <div class="text">
-                                    <h3>We provide services</h3>
-                                    <p>Except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences.</p>
+                                    <h3><span style="font-weight: 600;font-size:25px">Pay For Results Only!&nbsp;</span></h3>
+<p><span style="font-weight: 400;">If performance marketing services is about paying for results, it’s important to understand the many techniques and actions that are most typically measured:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">CPM (Cost Per Thousand Impressions): The amount an advertiser pays a publisher for every thousand times their ad is displayed.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The amount an advertiser pays only when their ad is clicked on is known as the cost per click (CPC).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">CPS (Cost Per Sale): The amount an advertiser pays only when a sale is made as a direct result of the advertisement.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">CPL (Cost Per Lead): The amount an advertiser spends when a potential customer signs up as a direct result of their advertisement.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">CPA (Cost Per Acquisition): The amount an advertiser spends when a given activity, such as a sale, a form completion, or a click, occurs CPA.</span></li>
+</ul>
+<p><span style="font-weight: 400;">While understanding </span><b>performance marketing v/s digital marketing</b><span style="font-weight: 400;"> may be a little confusing for you, the list below is a list of experts who will be able to help you in the best possible way in your marketing endeavour. Read on!</span></p>
+<p>&nbsp;</p>
                                 </div>
-                                <div class="two-column">
+                                <!-- <div class="two-column">
                                     <div class="row align-items-center clearfix">
                                         <div class="col-lg-6 col-md-6 col-sm-12 text-column">
                                             <div class="text">
@@ -95,9 +104,9 @@
                                             <figure class="image-box"><img src="assets/images/lucid_benefits_digital.webp" alt=""></figure>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
-                            <div class="content-three">
+                            <!-- <div class="content-three">
                                 <div class="text">
                                     <h3>Technologies that we use</h3>
                                     <p>We denounce with righteos indignation and dislikes men who are so beguiled demoralized cof pleasure of the moment.</p>
@@ -111,8 +120,8 @@
                                     </ul>
                                 </div>
                                 <figure class="image-box"><img src="assets/images/icons/chart-1.png" alt=""></figure>
-                            </div>
-                            <div class="content-four centred">
+                            </div> -->
+                            <!-- <div class="content-four centred">
                                 <div class="text">
                                     <h3>Application areas</h3>
                                     <p>We denounce with righteos indignation and dislikes men who are so <br />beguiled demoralized cof pleasure of the moment.</p>
@@ -167,7 +176,7 @@
                                         <h5>Accommodation and Travel</h5>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -177,7 +186,7 @@
 
 
         <!-- contact-style-four -->
-        <section class="contact-style-four">
+        <!-- <section class="contact-style-four">
             <div class="pattern-layer">
                 <div class="pattern-1" style="background-image: url(assets/images/shape/shape-91.png);"></div>
                 <div class="pattern-2" style="background-image: url(assets/images/shape/shape-92.png);"></div>
@@ -192,7 +201,7 @@
                                     <h2>We’d love hear from you anytime</h2>
                                     <div class="divider" style="background-image: url(assets/images/icons/divider-1.png);"></div>
                                 </div>
-                                <form action="https://azim.commonsupport.com/Bithlo/contact.html" method="post" class="default-form">
+                                <form action="#" method="post" class="default-form">
                                     <div class="form-group">
                                         <i class="far fa-user"></i>
                                         <input type="text" name="name" placeholder="Your Name" required="">
@@ -222,7 +231,7 @@
                     </div>
                 </div>
             </div>
-</section>
+</section> -->
         <!-- contact-style-four end -->
 
 

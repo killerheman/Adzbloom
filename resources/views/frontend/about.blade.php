@@ -34,17 +34,30 @@
                             <div class="content-box">
                                 <div class="sec-title style-two">
                                     <h5>ABOUT COMPANY</h5>
-                                    <h2>Mission is to bring force of simulated intelligence to business</h2>
+                                    <h2>Mission is to be Top Ranker Advertising Company</h2>
                                     <div class="divider" style="background-image: url(assets/images/icons/divider-1.png);"></div>
                                 </div>
                                 <div class="text">
-                                    <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it but right to find fault with a man who chooses enjoy.for your business work.</p>
-                                    <p>Which of us ever undertakes laborious physical exercise, except to obtain advantage from it who do not know how to pursue pleasure.</p>
+                                <p style="padding-left:60px;padding-right:60px;padding-top:0px;"> Founded in 2020, Vision Advertising is a full-service marketing agency that offers a suite of marketing services to our clients. As we like to say, “if it smells like marketing, we can do it." We cater to both business-to-business and business-to-consumer brands. </p>
+
+
+
+<p style="padding-left:60px;padding-right:60px;">Rather than having marketing generalists, each member of&nbsp;our team&nbsp;of specialists focuses on their individual areas of expertise. </p>
+
+
+
+<p style="padding-left:60px;padding-right:60px;">Our coverage area is predominantly focused on New England, but we will happily serve businesses  nationally. Some of the businesses we help include: restaurants, retail shops, business brokerages, insurance agencies, manufacturers, law firms, and accounting firms.</p>
+
+
+
+<p style="padding-left:60px;padding-right:60px;"> We encourage you to explore the possibilities with us and see how we can craft marketing designed to meet your individual goals. </p>
+
+                                <!-- <p>Which of us ever undertakes laborious physical exercise, except to obtain advantage from it who do not know how to pursue pleasure.</p> -->
                                 </div>
-                                <div class="video-inner">
+                                <!-- <div class="video-inner">
                                     <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="fas fa-play"></i></a>
                                     <h5>Video Intro <br />About Our Company</h5>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -55,7 +68,7 @@
 
 
         <!-- works-style-two -->
-        <section class="works-style-two centred bg-color-1">
+        <!-- <section class="works-style-two centred bg-color-1">
             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-13.png);"></div>
             <div class="auto-container">
                 <div class="sec-title style-two">
@@ -123,7 +136,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- works-style-two end -->
 
 
@@ -170,7 +183,7 @@
 
 
         <!-- funfact-section -->
-        <section class="funfact-section">
+        <!-- <section class="funfact-section">
             <div class="auto-container">
                 <div class="inner-container">
                     <div class="row clearfix">
@@ -217,7 +230,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- funfact-section end -->
 
 

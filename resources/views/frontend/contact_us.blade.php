@@ -30,7 +30,7 @@
                 <div class="row clearfix">
                     <div class="col-lg-10 col-md-12 col-sm-12 offset-lg-1 inner-column">
                         <div class="form-inner">
-                            <form method="post" action="https://azim.commonsupport.com/Bithlo/sendemail.php" id="contact-form" class="default-form"> 
+                            <form method="post" action="#" id="contact-form" class="default-form"> 
                                 <div class="row clearfix">
                                     <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                         <i class="far fa-user"></i>
@@ -88,7 +88,7 @@
                                     <div class="icon-box"><i class="far fa-paper-plane"></i></div>
                                     <h3>Location</h3>
                                     <span>VISIT TO EXPLORE THE WORLD</span>
-                                    <p>124, queens walk 2nd cross denmark WA, Australia</p>
+                                    <p>Anil & Anant Estate 10, Village Road Bhandup,Mumbai,Maharastra,India-400078</p>
                                 </div>
                             </div>
                         </div>

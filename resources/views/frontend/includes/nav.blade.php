@@ -52,20 +52,20 @@
                 <div class="auto-container">
                     <div class="top-inner clearfix">
                         <div class="logo-box">
-                            <figure class="logo"><a href="index-2.html"><img src="{{asset('assets/images/adz.png')}}" alt=""></a></figure>
+                            <figure class="logo"><a href="#"><img src="{{asset('assets/images/adz.png')}}" alt=""></a></figure>
                         </div>
                         <div class="right-column pull-right">
                             <div class="phone-box">
                                 <p><i class="fas fa-phone"></i>Start your project <a href="tel:8454937395">8454937395</a></p>
                             </div>
                             <ul class="social-links clearfix">
-                                <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="index-2.html"><i class="fab fa-pinterest-p"></i></a></li>
-                                <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="index-2.html"><i class="fab fa-dribbble"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
                             </ul>
                             <div class="search-box">
-                                <form action="https://azim.commonsupport.com/Bithlo/index.html" method="post" class="search-form">
+                                <form action="#s" method="post" class="search-form">
                                     <div class="form-group">
                                         <input type="search" name="search-field" placeholder="Search......" required="">
                                         <button type="submit"><i class="fas fa-search"></i></button>
@@ -92,7 +92,7 @@
                                     <ul class="navigation clearfix">
                                         <li class=""><a href="{{route('home')}}">Home</a>
                                             <!-- <ul> -->
-                                                <!-- <li><a href="index-2.html">Data Science</a></li>
+                                                <!-- <li><a href="#">Data Science</a></li>
                                                 <li><a href="index-3.html">Artificial intelligence</a></li>
                                                 <li><a href="index-4.html">Artificial intelligence 02</a></li>
                                                 <li><a href="index-5.html">User Analysis</a></li>
@@ -104,39 +104,36 @@
                                                 <li><a href="index-rtl.html">RTL Home</a></li> -->
                                             <!-- </ul> -->
                                         </li>
-                                        <li class="dropdown"><a href="index-2.html">Company</a>
-                                            <ul>
+                                        
                                                 <li><a href="{{route('about')}}">About Us</a></li>
-                                                <li><a href="{{route('contact')}}">Contact Us</a></li>
                                                 <!-- <li><a href="error.html">404</a></li> -->
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="index-2.html">Services</a>
+                                           
+                                        <li class="dropdown"><a href="#">Services</a>
                                             <ul>
-                                                <li><a href="{{route('service')}}">Our Services</a></li>
+                                                <!-- <li><a href="{{route('service')}}">Our Services</a></li> -->
                                                 <!-- <li><a href="advertising-marketing.html">Advertising & Marketing</a></li> -->
                                                 <li><a href="{{ route('performance') }}">Performance Makrting </a></li>
                                                 <li><a href="{{route('mobile')}}">Mobile Advertising</a></li>
                                                 <!-- <li><a href="travel-hospitality.html">Genrate Traffic</a></li> -->
-                                                <li><a href="{{ route('monotize') }}">Boosting & Monetizing</a></li>
+                                                <!-- <li><a href="{{ route('monotize') }}">Boosting & Monetizing</a></li> -->
                                                 <!-- <li><a href="trasportation-logistics.html">Trasportation & Logistics</a></li> -->
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="index-2.html">Works</a>
+                                        <!-- <li class="dropdown"><a href="#">Works</a>
                                             <ul>
-                                                <li><a href="{{ route('project') }}">Our Projects</a></li>
+                                                <li><a href="{{ route('project') }}">Our Projects</a></li> -->
                                                 <!-- <li><a href="project-2.html">Project 3 Columns</a></li>
                                                 <li><a href="project-details.html">Project Details</a></li> -->
-                                            </ul>
-                                        </li>
-                                        <li><a href="{{route('blog')}}">Blogs</a>
+                                            <!-- </ul>
+                                        </li> -->
+                                        <!-- <li><a href="{{route('blog')}}">Blogs</a> -->
                                             <!-- <ul>
                                                 <li><a href="{{route('blog')}}">Blog</a></li> -->
                                                 <!-- <li><a href="blog-2.html">Blog Classic</a></li> -->
                                                 <!-- <li><a href="blog-details.html">Blog Details</a></li> -->
                                             <!-- </ul> -->
-                                        </li>
-                                        <!-- <li class="dropdown"><a href="index-2.html">Elements</a>
+                                        <!-- </li> -->
+                                        <!-- <li class="dropdown"><a href="#">Elements</a>
                                             <div class="megamenu">
                                                 <div class="row clearfix">
                                                     <div class="col-xl-3 column">
@@ -194,13 +191,12 @@
                                                 </div>
                                             </div>
                                         </li> -->
-                                        <li class="dropdown"><a href="index-2.html">Pages</a>
-                                            <ul>
-                                                <li><a href="{{route('ourTeam')}}">Our Team</a></li>
+                                        
+                                                <li><a href="{{route('ourTeam')}}">Team</a></li>
                                                 <!-- <li><a href="pricing.html">Pricing Plan</a></li> -->
-                                                <li><a href="{{route('faq')}}">Faq's</a></li>
-                                            </ul>
-                                        </li>
+                                                <!-- <li><a href="#">Faq's</a></li> -->
+                                                <li><a href="{{route('contact')}}">Contact Us</a></li>
+                                           
                                     </ul>
                                 </div>
                             </nav>
@@ -217,7 +213,7 @@
                 <div class="auto-container">
                     <div class="outer-box clearfix">
                         <figure class="sticky-logo pull-left">
-                            <a href="index-2.html"><img src="assets/images/adzw.png" style="height:60px !important" alt=""></a>
+                            <a href="#"><img src="{{ asset('assets/images/adzw.png') }}" style="height:60px !important" alt=""></a>
                         </figure>
                         <div class="menu-area pull-right clearfix">
                             <nav class="main-menu clearfix">
@@ -236,23 +232,23 @@
             <div class="close-btn"><i class="fas fa-times"></i></div>
 
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index-2.html"><img src="assets/images/logo-4.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="#"><img src="{{ asset('assets/images/adzw.png') }}" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
-                        <li>Chicago 12, Melborne City, USA</li>
-                        <li><a href="tel:+8801682648101">+88 01682648101</a></li>
-                        <li><a href="mailto:info@example.com">info@example.com</a></li>
+                        <li>Anil & Anant Estate 10, Village Road Bhandup,Mumbai,Maharastra,India-400078</li>
+                        <li><a href="tel:+8454937395">+91 8454937395</a></li>
+                        <li><a href="mailto:info@adzbloom.com">info@adzbloom.com</a></li>
                     </ul>
                 </div>
                 <div class="social-links">
                     <ul class="clearfix">
-                        <li><a href="index-2.html"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-facebook-square"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-pinterest-p"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-instagram"></span></a></li>
-                        <li><a href="index-2.html"><span class="fab fa-youtube"></span></a></li>
+                        <li><a href="#"><span class="fab fa-twitter"></span></a></li>
+                        <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
+                        <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
+                        <li><a href="#"><span class="fab fa-instagram"></span></a></li>
+                        <li><a href="#"><span class="fab fa-youtube"></span></a></li>
                     </ul>
                 </div>
             </nav>
